@@ -2,7 +2,6 @@
 
 def convertToOneLiner(javaString):
 	javaString = javaString.strip()
-
 	charactersToReplace = ["\n", "\t", "\r"]
 	formattedString = ""
 	for line in javaString.splitlines():

@@ -11,6 +11,8 @@ def convertToOneLiner(javaString):
 		for character in charactersToReplace:
 			line = line.replace(character, "")
 		formattedString += line
+		if len(line) > 0 and not(line[-1] == ";"):
+			formattedString += " "
 			
 	return formattedString
 
@@ -76,10 +78,10 @@ def make_comments_nice(line):
     tmp[commentIndex] = "*"
     return "".join(tmp) + "*/"
 
-file_in = "Main.java"
+file_in = "PlayerTest.java"
 file_out = "out.java"
 javaString = read_file(file_in)
-out_string = remove_comments(convertToOneLiner(javaString))
-#out_string = convertToOneLiner(javaString)
+#out_string = remove_comments(convertToOneLiner(javaString))
+out_string = convertToOneLiner(javaString)
 print(out_string)
 write_file(file_out, out_string)

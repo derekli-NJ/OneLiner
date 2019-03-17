@@ -1,4 +1,4 @@
-#One Liner
+# One Liner
 
 Ever want to write really nice looking one liners in java? Tired of wasting entire **kilobytes** of space because of useless comments and new line characters? 
 
@@ -9,21 +9,24 @@ Well, One Liner is the solution for you:
 4. Reads directly from Java file and can override the same file (No copy and pasting necessary!)
 5. Basically the opposite of check style (space savings are key)
 
-##Before
+## Before
 
 Typical "Well Documened Code": 
+
 ![alt text]( https://github.com/derekli-NJ/OneLiner/blob/master/images/BeforePicture.png "Before Picture")
 
 ## After 
 
 Beautiful, efficient, and fully functional code after running One Liner: 
+
 ![alt text](https://github.com/derekli-NJ/OneLiner/blob/master/images/AfterPicture.png "After Picture")
 
 
-##Space Savings
+## Space Savings
 + Between 5% and 30%
 + Basic ~300 line program can expect savings ~18.5%
 + Results we got:
+
 ![alt text](https://github.com/derekli-NJ/OneLiner/blob/master/images/BeforePicture.png "Memory Savings Picture")
 
 

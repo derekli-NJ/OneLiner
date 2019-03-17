@@ -27,6 +27,6 @@ Beautiful, efficient, and fully functional code after running One Liner:
 + Basic ~300 line program can expect savings ~18.5%
 + Results we got:
 
-![alt text](https://github.com/derekli-NJ/OneLiner/blob/master/images/BeforePicture.png "Memory Savings Picture")
+![alt text](https://github.com/derekli-NJ/OneLiner/blob/master/images/MemorySavings.png "Memory Savings Picture")
 
 

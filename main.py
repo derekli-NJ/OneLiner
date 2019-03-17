@@ -23,6 +23,8 @@ def convertToOneLiner(javaString):
 		for character in charactersToReplace:
 			line = line.replace(character, "")
 		formattedString += line
+        if (line[-1] != ";"):
+            formattedString += " "
 			
 	return formattedString
 

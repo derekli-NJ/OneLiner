@@ -8,14 +8,14 @@ setup(
   author = 'Derek Li',                   
   author_email = 'derekli2@illinois.edu',      
   url = 'https://github.com/derekli-NJ/OneLiner',   
-  download_url = 'https://github.com/derekli-NJ/OneLiner/archive/v_01.tar.gz',    # I explain this later on
-  keywords = ['Java', 'OneLiner', 'Python'],   # Keywords that define your package best
+  download_url = 'https://github.com/derekli-NJ/OneLiner/archive/v0.1.tar.gz',    
+  keywords = ['Java', 'OneLiner', 'Python'],   
   classifiers=[
-    'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
-    'Intended Audience :: Developers',      # Define that your audience are developers
+    'Development Status :: 3 - Alpha',      
+    'Intended Audience :: Developers',      
     'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: MIT License',   # Again, pick a license
-    'Programming Language :: Python :: 3',      #Specify which pyhton versions that you want to support
+    'License :: OSI Approved :: MIT License',   
+    'Programming Language :: Python :: 3',      
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',

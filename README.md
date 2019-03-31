@@ -11,7 +11,7 @@ Well, One Liner is the solution for you:
 
 ## Before
 
-Typical "Well Documened Code": 
+Typical "Well Documented Code": 
 
 ![alt text]( https://github.com/derekli-NJ/OneLiner/blob/master/images/BeforePicture.png "Before Picture")
 

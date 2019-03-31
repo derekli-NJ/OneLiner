@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'OneLiner', 
-  packages = ['OneLiner'],
+  name = 'JavaOneLiner', 
+  packages = ['JavaOneLiner'],
   version = '0.1',
   license='MIT',          
   description = 'Create Beautiful Java OneLiners here!',

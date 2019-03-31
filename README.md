@@ -9,6 +9,10 @@ Well, One Liner is the solution for you:
 4. Reads directly from Java file and can override the same file (No copy and pasting necessary!)
 5. Basically the opposite of check style (space savings are key)
 
+## Installation
+
+'pip install JavaOneLiner'
+
 ## Before
 
 Typical "Well Documented Code": 

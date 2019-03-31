@@ -11,7 +11,7 @@ Well, One Liner is the solution for you:
 
 ## Installation
 
-'pip install JavaOneLiner'
+`pip install JavaOneLiner`
 
 ## Before
 

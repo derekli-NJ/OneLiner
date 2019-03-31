@@ -1,1 +1,1 @@
-from OneLiner import *
+from JavaOneLiner import *
